@@ -4,3 +4,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikinSimon&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # ![LeetCode](https://img.shields.io/badge/-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AnikinSimon)](https://leetcode.com/AnikinSimon)
+# ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white) Codeforces Stats:
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AnikinSimon)](https://codeforces.com/profile/AnikinSimon)
